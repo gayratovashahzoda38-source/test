@@ -1,0 +1,10 @@
+# Default ignored files
+/../../Lesson./.idea/shelf/
+/../../Lesson./.idea/workspace.xml
+# Editor-based HTTP Client requests
+/../../Lesson./.idea/httpRequests/
+# Ignored default folder with query files
+/../../Lesson./.idea/queries/
+# Datasource local storage ignored files
+/../../Lesson./.idea/dataSources/
+/../../Lesson./.idea/dataSources.local.xml
